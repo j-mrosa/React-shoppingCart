@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-shoppingCart/static/css/main.fa2a7ef3.css",
+    "main.js": "/React-shoppingCart/static/js/main.f6246106.js",
+    "static/js/787.d6fe38e8.chunk.js": "/React-shoppingCart/static/js/787.d6fe38e8.chunk.js",
+    "index.html": "/React-shoppingCart/index.html",
+    "main.fa2a7ef3.css.map": "/React-shoppingCart/static/css/main.fa2a7ef3.css.map",
+    "main.f6246106.js.map": "/React-shoppingCart/static/js/main.f6246106.js.map",
+    "787.d6fe38e8.chunk.js.map": "/React-shoppingCart/static/js/787.d6fe38e8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa2a7ef3.css",
+    "static/js/main.f6246106.js"
+  ]
+}
